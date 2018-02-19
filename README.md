@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/pomerla/OneSignal-Codeigniter-Push-Notification.svg?style=plastic)](https://github.com/pomerla/Ci3-Jumpstart/blob/master/LICENSE)
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/pomerla/OneSignal-Codeigniter-Push-Notification.svg?style=social&style=plastic)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpomerla%2FOneSignal-Codeigniter-Push-Notification)
-[![API](https://img.shields.io/badge/11%2022%20333-February%2019%2C%202018-36ade1.svg)](https://###)
+[![API](https://img.shields.io/badge/last%20build-February%2019%2C%202018-36ade1.svg)](https://###)
 
 ## About the application
 OneSignal is a free push notification service for web and mobile apps. This Codeigniter example makes it easy to integrate your website with Push Notifications [OneSignal](https://onesignal.com/) 
