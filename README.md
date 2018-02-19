@@ -9,6 +9,6 @@
 [![API](https://img.shields.io/badge/11%2022%20333-February%2019%2C%202018-36ade1.svg)](https://###)
 
 ## Quick start
-This example is implemented on [Codeigniter Version 3.2.0-dev]  (https://github.com/bcit-ci/CodeIgniter)
+This example is implemented on [Codeigniter Version 3.2.0-dev](https://github.com/bcit-ci/CodeIgniter)
 
 q
