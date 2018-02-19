@@ -8,10 +8,21 @@
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/pomerla/OneSignal-Codeigniter-Push-Notification.svg?style=social&style=plastic)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpomerla%2FCi3-Jumpstart)
 [![API](https://img.shields.io/badge/11%2022%20333-February%2019%2C%202018-36ade1.svg)](https://###)
 
-## Quick start
+## About the application
 OneSignal is a free push notification service for web and mobile apps. This Codeigniter example makes it easy to integrate your website with Push Notifications [OneSignal](https://onesignal.com/) 
 
 DEMO - [http://ci3onesignal.codefort.ru/](http://ci3onesignal.codefort.ru/)
+
+[OneSignal](https://onesignal.com) is a free push notification service for web and mobile apps.
+
+This application allows your site's visitors to receive push notifications from you. Send visitors custom notification content, target specific users, and send automatically based on triggers.
+
+
+## Getting Started
+
+View our [documentation](https://documentation.onesignal.com/docs/web-push-setup) to get started.
+
+Please reference the OneSignal application on your webpage via our CDN URL (listed in our setup documentation) instead of copying the source into another file.
 
 This example is implemented on [Codeigniter Version 3.2.0-dev](https://github.com/bcit-ci/CodeIgniter)
 
