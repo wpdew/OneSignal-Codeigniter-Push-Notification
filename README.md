@@ -9,6 +9,9 @@
 [![API](https://img.shields.io/badge/11%2022%20333-February%2019%2C%202018-36ade1.svg)](https://###)
 
 ## Quick start
+OneSignal is a free push notification service for web and mobile apps. This Codeigniter example makes it easy to integrate your website with Push Notifications [OneSignal](https://onesignal.com/) 
+
+DEMO - [http://ci3onesignal.codefort.ru/](http://ci3onesignal.codefort.ru/)
+
 This example is implemented on [Codeigniter Version 3.2.0-dev](https://github.com/bcit-ci/CodeIgniter)
 
-q
