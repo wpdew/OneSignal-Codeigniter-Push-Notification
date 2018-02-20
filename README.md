@@ -22,7 +22,5 @@ This application allows your site's visitors to receive push notifications from 
 
 View our [documentation](https://documentation.onesignal.com/docs/web-push-setup) to get started.
 
-Please reference the OneSignal application on your webpage via our CDN URL (listed in our setup documentation) instead of copying the source into another file.
-
 This example is implemented on [Codeigniter Version 3.2.0-dev](https://github.com/bcit-ci/CodeIgniter)
 
