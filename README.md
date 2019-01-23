@@ -28,8 +28,8 @@ Or via through [composer](http://getcomposer.org/download/).
 
 Either run
 
-```
-> composer create-project pomerla/onesignal-ci-push
+>```
+ composer create-project pomerla/onesignal-ci-push
 ```
 
 This example is implemented on [Codeigniter Version 3.1.10](https://github.com/bcit-ci/CodeIgniter)
