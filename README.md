@@ -24,5 +24,13 @@ View our [documentation](https://documentation.onesignal.com/docs/web-push-setup
 
 Installation and Setup [Wiki](https://github.com/pomerla/OneSignal-Codeigniter-Push-Notification/wiki) read
 
+Or via through [composer](http://getcomposer.org/download/).
+
+Either run
+
+```
+composer create-project pomerla/onesignal-ci-push
+```
+
 This example is implemented on [Codeigniter Version 3.1.10](https://github.com/bcit-ci/CodeIgniter)
 
