@@ -1,0 +1,18 @@
+{
+    "name": "pomerla/onesignal-ci-push",
+    "description": "Codeigniter3-OneSignal-Codeigniter-Push-Notification",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Aleksandr Moroz",
+            "email": "aleksmorro@gmail.com"
+        }
+    ],
+    "support": {
+		"forum": "http://moroz.rv.ua/",
+		"wiki": "http://moroz.rv.ua",
+		"source": "https://github.com/pomerla/OneSignal-Codeigniter-Push-Notification"
+	},
+    "license": "MIT",
+    "minimum-stability": "alpha"
+}
